@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM quay.io/upslopeio/node-alpine:latest
+FROM node:12-slim
 ENV NODE_ENV=production
 
 WORKDIR /app
