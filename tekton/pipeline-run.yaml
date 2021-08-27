@@ -3,7 +3,7 @@ kind: PipelineRun
 metadata:
   generateName: nico-ale-backend-pipeline-
 spec:
-  #serviceAccountName: build-bot
+  serviceAccountName: build-bot
   pipelineRef:
     name: nico-ale-backend-pipeline
   params:
