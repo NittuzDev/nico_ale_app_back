@@ -9,4 +9,4 @@ RUN npm install express
 
 COPY . .
 
-CMD [ "node", "backend.js" ]
+CMD [ "NPM", "start" ]
