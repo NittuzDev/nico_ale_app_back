@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nicola-bertoli/nico_ale_app_back/issues"
   },
-  "homepage": "https://github.com/nicola-bertoli/nico_ale_app_back#readme"
+  "homepage": "https://github.com/nicola-bertoli/nico_ale_app_back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
