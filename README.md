@@ -1,2 +1,2 @@
-Committed on 2023-11-01T12:01:15 
+Committed on 2023-11-06T12:41:00 
 Committer - https://github.com/NittuzDev/nico_ale_app_back
